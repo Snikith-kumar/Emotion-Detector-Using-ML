@@ -1,53 +1,14 @@
 # Emotion-Detector-Using-ML
 Real-time facial emotion recognition using OpenCV and Mini-XCEPTION
-# Emotion Detector using Machine Learning 🎭
+Table of Content :
+1.Description
 
-This project is a real-time facial emotion recognition system using OpenCV and a pre-trained Mini-XCEPTION model trained on the FER-2013 dataset. It detects faces from webcam input and classifies emotions into seven categories: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.
+2.Installations
 
-## 🔧 Requirements
+3.Usage
 
-- Python 3.x
-- OpenCV
-- TensorFlow / Keras
-- NumPy
+4.Dataset
+![Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/6d2446a0-8d59-4d0c-b7b1-224c17c1cad5)
 
-Install all dependencies:
-```bash
-pip install -r requirements.txt
-🧠 Model
-Download the pre-trained model:
-Mini-XCEPTION (HDF5)
 
-Place it in the project root directory.
-
-🚀 How to Run
-python emotion_detector.py
-
-📷 Sample Output
-
-📂 Dataset
-The model is trained on the FER-2013 dataset.
-
-📌 Technologies Used
-Python
-
-OpenCV
-
-TensorFlow / Keras
-
-Haar Cascades
-
-Mini-XCEPTION Architecture
-
-✍️ Author
-This project was created as part of a personal portfolio to demonstrate real-time ML-based facial analysis.
-
----
-
-Let me know if you'd like:
-- To include your name/contact
-- Add a **demo video**
-- Add a **"Future Improvements"** section
-
-I can generate that too!
 
