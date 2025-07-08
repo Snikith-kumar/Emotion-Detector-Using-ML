@@ -30,31 +30,14 @@ Install all required dependencies with:
 pip install -r requirements.txt
 
 
-![Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/6d2446a0-8d59-4d0c-b7b1-224c17c1cad5)
-
-
-
-##Demo
+▶️ Usage
+To run the real-time emotion detection demo:
 
 python real_time_video.py
 
-You can just use this with the provided pretrained model i have included in the path written in the code file, i have choosen this specificaly since it scores the best accuracy, feel free to choose any but in this case you have to run the later file train_emotion_classifier
-
-If you just want to run this demo, the following content can be skipped
-
-Train
+A webcam window will display detected faces with predicted emotion labels.
+A second window shows a bar chart of emotion probabilities.
+If you want to train your own model, use:
 
 python train_emotion_classifier.py
-
-
-##Dataset:
-
-The model is trained on the FER-2013 dataset.
-
-Ongoing
-Draw emotions faces next to the detected face.
-
---
-[Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/6d2446a0-8d59-4d0c-b7b1-224c17c1cad5)
-
 
