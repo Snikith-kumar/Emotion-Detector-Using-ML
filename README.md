@@ -45,7 +45,8 @@ python train_emotion_classifier.py
 
 ## 📸 Demo Screenshot
 
-[<img src="https://github.com/user-attachments/assets/b32d22ac-77c0-4749-95d5-8c4daf380959" width="500"/>](https://github.com/user-attachments/assets/b32d22ac-77c0-4749-95d5-8c4daf380959)
+![Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/bbcbaf77-ad99-489c-9499-7bd0143a0379)
+
 
 
 
