@@ -54,6 +54,7 @@ The model is trained on the FER-2013 dataset.
 Ongoing
 Draw emotions faces next to the detected face.
 
-
+--
+![Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/6d2446a0-8d59-4d0c-b7b1-224c17c1cad5)
 
 
