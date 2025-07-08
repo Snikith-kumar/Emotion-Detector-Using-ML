@@ -13,7 +13,6 @@ Real-time facial emotion recognition using OpenCV and Mini-XCEPTION.
 5. [Demo Screenshot](#demo-screenshot)  
 
 
-[Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/b32d22ac-77c0-4749-95d5-8c4daf380959)
 
 ---
 
@@ -44,6 +43,10 @@ If you want to train your own model, use:
 
 python train_emotion_classifier.py
 
+
+## 📸 Demo Screenshot
+
+![Screenshot](https://github.com/user-attachments/assets/b32d22ac-77c0-4749-95d5-8c4daf380959)
 
 
 
