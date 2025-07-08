@@ -1,30 +1,40 @@
 # Emotion-Detector-Using-ML
 Real-time facial emotion recognition using OpenCV and Mini-XCEPTION
-Table of Content :
+# Emotion Detector Using ML 🎭  
+Real-time facial emotion recognition using OpenCV and Mini-XCEPTION.
 
-1.Description
-2.Installations
-3.Usage
-4.Dataset
+---
+
+## 📑 Table of Contents
+1. [Description](#description)  
+2. [Installations](#installations)  
+3. [Usage](#usage)  
+4. [Dataset](#dataset)  
+5. [Demo Screenshot](#demo-screenshot)  
+
+---
+
+## 🧠 Description
+
+Emotion recognition is a computer vision technique used to "read" human emotions from facial expressions using deep learning and image processing. This project demonstrates how human faces often show mixed emotions, and visualizes the probability distribution across seven basic emotions.
+
+Using a pre-trained Mini-XCEPTION model trained on the FER-2013 dataset, the system detects faces and classifies emotions in real time, displaying both the predicted emotion and a probability bar chart.
+
+---
+
+## ⚙️ Installations
+
+Install all required dependencies with:
+
+```bash
+pip install -r requirements.txt
 
 
 ![Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/6d2446a0-8d59-4d0c-b7b1-224c17c1cad5)
 
-Description:
-Our Human face is having a mixed emotions so we are to demonstrate the probabilities of these emotions that we have.
 
-What does Emotion Recognition mean?
-Emotion recognition is a technique used in software that allows a program to "read" the emotions on a human face using advanced image processing. Companies have been experimenting with combining sophisticated algorithms with image processing techniques that have emerged in the past ten years to understand more about what an image or a video of a person's face tells us about how he/she is feeling and not just that but also showing the probabilities of mixed emotions a face could has.
 
-Installations:
-Install dependencies using requirements.txt
-
-pip install -r requirements.txt
-
-Usage:
-The program will creat a window to display the scene capture by webcamera and a window representing the probabilities of detected emotions.
-
-Demo
+##Demo
 
 python real_time_video.py
 
@@ -37,7 +47,7 @@ Train
 python train_emotion_classifier.py
 
 
-Dataset:
+##Dataset:
 
 The model is trained on the FER-2013 dataset.
 
