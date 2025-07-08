@@ -42,6 +42,6 @@ If you want to train your own model, use:
 python train_emotion_classifier.py
 
 
-![Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/b32d22ac-77c0-4749-95d5-8c4daf380959)
+[Screenshot 2025-07-07 215751](https://github.com/user-attachments/assets/b32d22ac-77c0-4749-95d5-8c4daf380959)
 
 
